@@ -23,3 +23,7 @@ Now I am working on the plugin branch and I'm adding OpenFX plugin support to th
 ## How to Get the Code
 
 You can visit our GitHub: https://github.com/OliveCommunity/olive
+
+## Contact
+
+You can contact us via dev@olivece.com .
